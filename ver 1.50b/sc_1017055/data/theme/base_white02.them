@@ -1,0 +1,15 @@
+﻿;初期設定ファイル（色はたぶんARGB）
+main-color,FFeeeeee
+sub-color,FF888888
+
+text-color1,FFeeeeee
+text-color2,FF111111
+text-color3,FF222222
+
+bar-color,FFeeeeee
+bar-color-sub,FFcccccc
+
+alpha,156
+alpha-sub,200
+
+name,White Reverse

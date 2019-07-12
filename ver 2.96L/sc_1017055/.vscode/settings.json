@@ -1,0 +1,11 @@
+// 既定の設定とユーザー設定を上書きするには、このファイル内に設定を挿入します
+{
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "workbench.colorTheme": "Visual Studio Dark"
+}

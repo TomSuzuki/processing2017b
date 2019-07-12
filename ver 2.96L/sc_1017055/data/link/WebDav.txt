@@ -1,0 +1,1 @@
+https://openam.fun.ac.jp/openam/UI/Login?goto=https%3A%2F%2Fsso-webdav.fun.ac.jp%2Fproself%2Flist%2Fpropfind.go

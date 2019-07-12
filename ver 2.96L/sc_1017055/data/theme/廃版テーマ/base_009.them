@@ -1,0 +1,15 @@
+﻿;初期設定ファイル（色はたぶんARGB）
+main-color,FFA64A97
+sub-color,FFE85298
+
+text-color1,FF000000
+text-color2,FFFFFFFF
+text-color3,FF999999
+
+bar-color,FF187FC4
+bar-color-sub,FF00AFEC
+
+alpha,120
+alpha-sub,245
+
+name,Bright tone

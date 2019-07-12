@@ -1,0 +1,14 @@
+﻿;初期設定ファイル（色はたぶんARGB）
+main-color,FF234794
+sub-color,FF234794
+text-color1,FF000000
+text-color2,FFEEEEEE
+text-color3,FFCCCCCC
+
+bar-color,FFAAAAAA
+bar-color-sub,FFEEEEEE
+
+alpha,156
+alpha-sub,200
+
+name,藍

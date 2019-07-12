@@ -1,0 +1,15 @@
+﻿;初期設定ファイル（色はたぶんARGB）
+main-color,FFD2CCE6
+sub-color,FFD5EAD8
+
+text-color1,FF222222
+text-color2,FFFADBDA
+text-color3,FFFBDAC8
+
+bar-color,FFFADBDA
+bar-color-sub,FFFBDAC8
+
+alpha,245
+alpha-sub,189
+
+name,Very pale tone

@@ -1,0 +1,16 @@
+﻿{
+    "version": "0.1.0",
+    "command": "C:/application/processing-3.3/processing-java.exe",
+    "isShellCommand": true,
+    "showOutput": "never",
+    "editor.minimap.enabled": false,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "args": [
+        "--force",
+        "--sketch=${workspaceRoot}",
+        //"--output=${workspaceRoot}\\out",
+        "--run"
+    ]
+}
